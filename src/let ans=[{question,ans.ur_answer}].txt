@@ -1,0 +1,1 @@
+let ans=[{question,[ans.ur_answer]}]
